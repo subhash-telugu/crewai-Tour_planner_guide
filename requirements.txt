@@ -1,0 +1,17 @@
+crewai
+streamlit
+unstructured
+langchain
+langchain-community
+langchain-core
+langchain-groq
+tools
+requests
+fastapi
+uvicorn
+pydantic
+python-dotenv
+crewai[tools]
+firecrawl-py
+outlines
+mcp-use
